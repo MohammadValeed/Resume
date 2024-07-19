@@ -1,2 +1,2 @@
 # Resume
-Interactive Resume built using HTML, CSS.
+Interactive Resume built using HTML and CSS.
